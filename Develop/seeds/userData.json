@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Victor",
+        "email": "Victor@email.com",
+        "password": "password12345"
+    },
+    {
+        "name": "Ana",
+        "email": "Ana@email.com",
+        "password": "password23456"
+    },
+    {
+        "name": "Karen",
+        "email": "Karen@email.com",
+        "password": "password34567"
+    },
+    {
+        "name": "Mackenzie",
+        "email": "Mackenzie@email.com",
+        "password": "password45678"
+    },
+    {
+        "name": "Josh",
+        "email": "Josh@email.com",
+        "password": "password56789"
+    }
+]

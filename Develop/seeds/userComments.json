@@ -1,0 +1,27 @@
+[
+    {
+        "text": "This dish is soooo good",
+        "user_id": 1,
+        "posts_id": 3
+    },
+    {
+        "text": "These are great for the late nights :)",
+        "user_id": 4,
+        "posts_id": 1
+    },
+    {
+        "text": "Made my mouth water just from the smell!",
+        "user_id": 5,
+        "posts_id": 4
+    },
+    {
+        "text": "This is something grandma would make and I cant wait to relive the moment.",
+        "user_id": 3,
+        "posts_id": 2
+    },
+    {
+        "text": "Can be great for the summer times.",
+        "user_id": 2,
+        "posts_id": 5
+    }
+]

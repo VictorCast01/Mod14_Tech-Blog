@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Cheese Plate with Spanish Chorizo",
+        "text": "Manchego, Iberico, Cabrales, fig jam, grapes, pecans, and Spanich Chorizo",
+        "user_id": 1
+    },
+    {
+        "title": "Pork Gyoza",
+        "text": "Homemade japanese dumplings stuffed with a pork and green onion filling, served with peanut dipping sauce",
+        "user_id": 2
+    },
+    {
+        "title": "Yebeg Tibs with Injera Bread",
+        "text": "Marinated lamb dish with rosemary, garlic, onion, tomato, jalapeño and the East African spice berbere",
+        "user_id": 3
+    },
+    {
+        "title": "Cape Malay Curry",
+        "text": "Chicken and vegitable curry dish with basmati rice",
+        "user_id": 4
+    },
+    {
+        "title": "Tropical Fruit Salad",
+        "text": "Guava, papaya, pineapple, mango, and star fruit",
+        "user_id": 5
+    }
+]
