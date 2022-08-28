@@ -1,9 +1,9 @@
 :root {
-    --highlight-color: hsl(195, 38%, 57%);
-    --text-color: hsl(195, 92%, 63%);
-    --main-color: rgb(48, 73, 94);
-    --second-main-color: rgb(62, 101, 132);
-    --bg-color: rgb(192, 204, 212);
+    --highlight-color: hsl(109, 70%, 45%);
+    --text-color: hsl(65, 92%, 55%);
+    --main-color: rgb(0, 12, 141);
+    --second-main-color: rgb(60, 153, 62);
+    --bg-color: rgb(225, 255, 126);
 }
 
 body {
@@ -13,10 +13,7 @@ body {
 
 nav button {
     font-family: 'Work Sans', sans-serif;
-    /* display: flex; */
     font-size: 1.5rem;
-    /* justify-content: space-between; */
-    /* padding: 15px; */
     color: var(--text-color);
     background-color: var(--main-color);
     text-align: center;
@@ -24,7 +21,6 @@ nav button {
     padding: 0.5rem 1.2rem;
     margin: 0;
     text-decoration: none;
-    /* font-size: 1.75rem; */
     font-weight: bold;
     border-radius: 0.3rem;
     border: 1px solid var(--highlight-color);
@@ -87,7 +83,6 @@ header {
 .card {
     width: 90%;
     box-shadow: 5px 5px 9px var(--second-main-color);
-    /* justify-self: center; */
 }
 
 .card header {
@@ -142,10 +137,6 @@ main {
     flex-direction: column;
     align-items: center;
 }
-
-/* #grad {
-    background-image: linear-gradient(to bottom right rgb(48, 73, 94), rgb(62, 101, 132));
-} */
 
 .title {
     background-color: var(--text-color);
